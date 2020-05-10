@@ -4,7 +4,7 @@ The Digispark is an Attiny85 based microcontroller development board similar to 
 
 Here are the specs:
 
-- Support for the Arduino IDE 1.0+ (OSX/Win/Linux)
+- Support for the Arduino IDE 1.6.5+ (OSX/Win/Linux)
 - Power via USB or External Source - 5v or 7-35v (12v or less recommended, automatic selection)
 - On-board 500ma 5V Regulator
 - Built-in USB
