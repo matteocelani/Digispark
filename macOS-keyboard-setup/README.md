@@ -57,6 +57,7 @@ ___
 
 # Error with macOs Catalina
 **Error compiling for board Digispark (Default - 16.5mhz)**
+
 ```
 Arduino:1.8.12 (Mac OS X), Scheda:"Digispark (Default - 16.5mhz)"
 fork/exec /Users/(username)/Library/Arduino15/packages/arduino/tools/avr-gcc/4.8.1-arduino5/bin/avr-g++:
