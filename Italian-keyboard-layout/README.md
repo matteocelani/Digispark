@@ -24,7 +24,7 @@ Windows (Arduino IDE 1.6.6 and later):
 c:\Users\(username)\AppData\Local\Arduino15\packages\digistump\hardware\avr\(version)\libraries\DigisparkKeyboard\
 ```
 
-# Info
+## Info
 For sending special characters like \[]{}@# I modified the write function in DigiKeyboard.h, starting at line 203, so to send the corresponding keystroke combination.
 
 Updated scancode-ascii-table.h so to map the correct keycodes to ASCII codes for the italian keyboard layout.
