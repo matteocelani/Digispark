@@ -1,4 +1,5 @@
-
+//This code will blink the BUILTIN LED
+//(on either pin 0 or pin 1 depending on the Digispark)
 // the setup routine runs once when you press reset:
 void setup() {                
   // initialize the digital pin as an output.
