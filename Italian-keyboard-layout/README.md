@@ -8,7 +8,7 @@ You must place the two header files (DigiKeyboard.h and scancode-ascii-table.h) 
 
 MacOS Catalina
 ```
-/Users/(username)/Library/Arduino15/packages/digistump/hardware/avr/(version)/libraries/DigisparkKeyboard
+/Users/(username)/Library/Arduino15/packages/digistump/hardware/avr/(version)/libraries/DigisparkKeyboard/
 ```
 Linux:
 ```
